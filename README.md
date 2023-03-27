@@ -5,5 +5,7 @@
   
 * [web-site](https://mr-d-gil.github.io/example/)
 * [example page](complete-page.html)
+* something else
+* another thing
 
 </nav>
